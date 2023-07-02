@@ -10,7 +10,7 @@ Seeed XIAO SAMD21 arduino-compatible board
 
 This is wired to and powered by the serial3 port on the speeduino board
 
-Connections:
+Connections: <br>
 1 - switch1
 2 - switch2
 GND - GND of speeduino serial3, screen, switch1, switch2
