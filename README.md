@@ -3,6 +3,7 @@ Modified Ardugauge for Speeduino with customizable appearance and horizonal and 
 <br>
 This is a modification of miata-ardugauge https://github.com/shiznit304/miata-ardugauge which was modified from the original Ardugauge by MielArrojado.<br>
 <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rDLFMiGNCLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Parts:<br>
 Seeed XIAO SAMD21 arduino-compatible board<br>
 2.42" OLED display (converted to i2C)<br>
