@@ -28,3 +28,5 @@ Hopefully I left enough comments so it all makes sense. Here's the general opera
 Quick press of either button changes the page<br>
 1-second press - switch to a custom gauge screen where you can cycle through all the stats on the Speeduino. Another 1-second press goes back to main pages.<br>
 3-second press - rotate screen orientation by 90<br>
+<br>
+It's a bit too big for the regular Arduino Nano or Arduino Nano Every, but it'll probably fit if you get rid of the alternate rotations.<br>
